@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Victor Nunes Pando Ferreira
+Matricula: 00887978
 
 ## Tela de inspeção com navegador
-
+![alt text](imgs/network_wikipedia.png)
 
 ## Tela de projeto no Replit
 
+![alt text](imgs/hello_world_replit.png)
